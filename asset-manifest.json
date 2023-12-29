@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Sweta-Mishra/static/css/main.99a17f38.css",
+    "main.js": "/Portfolio-Sweta-Mishra/static/js/main.916538db.js",
+    "static/media/swetaimg.jpeg": "/Portfolio-Sweta-Mishra/static/media/swetaimg.d6f1c9c9575fd0b1a6ec.jpeg",
+    "index.html": "/Portfolio-Sweta-Mishra/index.html",
+    "main.99a17f38.css.map": "/Portfolio-Sweta-Mishra/static/css/main.99a17f38.css.map",
+    "main.916538db.js.map": "/Portfolio-Sweta-Mishra/static/js/main.916538db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99a17f38.css",
+    "static/js/main.916538db.js"
+  ]
+}
