@@ -58,7 +58,7 @@ const Portfolio = () => {
               }}
             >
          <div className="container">
-         <h1 className="main">My Projects</h1>
+         <h1 className="card-header">My Projects</h1>
       <div className="card-container">
         <div className="cards">
           {
