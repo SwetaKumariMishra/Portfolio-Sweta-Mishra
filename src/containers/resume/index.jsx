@@ -9,8 +9,11 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import './style.scss'
+// import {Sweta_pdf} from '../../../public/Sweta_Mishra.pdf';
 
-const PDF_FILE_URL = "http://localhost:3001/Sweta_Mishra.pdf";
+// const PDF_FILE_URL = "http://localhost:3001/Sweta_Mishra.pdf";
+
+const PDF_FILE_URL = "Sweta_Mishra.pdf";
 
 const Resume = () => {
   const downloadFileAtURL = (url)=>{
@@ -27,7 +30,7 @@ const Resume = () => {
       <PageHeaderContent
         headerText="My Resume"
         icon={<AiOutlineDownload size={40} onClick={()=>{downloadFileAtURL(PDF_FILE_URL)}} cursor="Pointer" title="Download resume"/>}
-      />
+        />
 
       <div className="timeline">
         <div className="timeline__education">

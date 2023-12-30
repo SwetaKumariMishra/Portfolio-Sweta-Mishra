@@ -37,7 +37,8 @@ const project = [
     button: "visit",
     link: "https://github.com/SwetaKumariMishra/Projects-using-JavaScript/tree/master/IncrementCounter",
   },
-]
+  
+];
 
 const Portfolio = () => {
   return (
@@ -58,7 +59,6 @@ const Portfolio = () => {
               }}
             >
          <div className="container">
-         <h1 className="card-header">My Projects</h1>
       <div className="card-container">
         <div className="cards">
           {
