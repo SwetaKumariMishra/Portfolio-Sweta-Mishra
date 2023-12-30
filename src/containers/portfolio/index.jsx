@@ -27,7 +27,7 @@ const project = [
   },
   {
     title: "Temperature converter using JavaScript",
-    description: "In this JavaScript project, we create an input element that can convert a value from one temperature measurement to another.",
+    description: "In this JavaScript project, we create an input element that can convert a value from one temperature measurement to another",
     button: "visit",
     link: "https://github.com/SwetaKumariMishra/Projects-using-JavaScript/tree/master/TempConverter",
   },
