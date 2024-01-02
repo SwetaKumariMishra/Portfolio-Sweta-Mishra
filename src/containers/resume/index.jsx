@@ -9,11 +9,10 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import './style.scss'
-// import {Sweta_pdf} from '../../../public/Sweta_Mishra.pdf';
 
-const PDF_FILE_URL = "E:/My Portfolio/portfolio-project/public/Sweta_Mishra.pdf";
 
-// const PDF_FILE_URL = "Sweta_Mishra.pdf";
+const PDF_FILE_URL = window.location.origin;
+const pdfName = PDF_FILE_URL + "/Sweta_Mishra.pdf";
 
 const Resume = () => {
   const downloadFileAtURL = (url)=>{
@@ -29,7 +28,7 @@ const Resume = () => {
     <section id="resume" className="resume">
       <PageHeaderContent
         headerText="My Resume"
-        icon={<AiOutlineDownload size={40} onClick={()=>{downloadFileAtURL(PDF_FILE_URL)}} cursor="Pointer" title="Download resume"/>}
+        icon={<AiOutlineDownload size={40} onClick={()=>{downloadFileAtURL(pdfName)}} cursor="Pointer" title="Download resume"/>}
         />
 
       <div className="timeline">
