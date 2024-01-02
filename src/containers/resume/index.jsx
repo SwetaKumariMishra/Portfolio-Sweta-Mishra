@@ -11,9 +11,9 @@ import "react-vertical-timeline-component/style.min.css";
 import './style.scss'
 // import {Sweta_pdf} from '../../../public/Sweta_Mishra.pdf';
 
-// const PDF_FILE_URL = "http://localhost:3001/Sweta_Mishra.pdf";
+const PDF_FILE_URL = "E:/My Portfolio/portfolio-project/public/Sweta_Mishra.pdf";
 
-const PDF_FILE_URL = "Sweta_Mishra.pdf";
+// const PDF_FILE_URL = "Sweta_Mishra.pdf";
 
 const Resume = () => {
   const downloadFileAtURL = (url)=>{
