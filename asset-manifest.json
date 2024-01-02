@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio-Sweta-Mishra/static/css/main.bd46efa0.css",
-    "main.js": "/Portfolio-Sweta-Mishra/static/js/main.48b565de.js",
+    "main.js": "/Portfolio-Sweta-Mishra/static/js/main.700cfbba.js",
     "static/media/swetaimg.jpeg": "/Portfolio-Sweta-Mishra/static/media/swetaimg.d6f1c9c9575fd0b1a6ec.jpeg",
     "index.html": "/Portfolio-Sweta-Mishra/index.html",
     "main.bd46efa0.css.map": "/Portfolio-Sweta-Mishra/static/css/main.bd46efa0.css.map",
-    "main.48b565de.js.map": "/Portfolio-Sweta-Mishra/static/js/main.48b565de.js.map"
+    "main.700cfbba.js.map": "/Portfolio-Sweta-Mishra/static/js/main.700cfbba.js.map"
   },
   "entrypoints": [
     "static/css/main.bd46efa0.css",
-    "static/js/main.48b565de.js"
+    "static/js/main.700cfbba.js"
   ]
 }
